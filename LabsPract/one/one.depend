@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607801787 source:c:\users\st0rm\documents\c-cpp\labspract\one\main.cpp
+	<iostream>
+	<vector>
+
